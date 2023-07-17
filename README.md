@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 🌱I’m interested in developing wesites and problem solving projects.
 - 🌱 I’m currently developing a ecommerce website and sharpening my skills in web development
-- 💞️ I’m looking to work in a reputed organisation to enhance my skills.
+- 💞 Transitioning into cloud SOON ;)
 
 - 📫 You can reach me at https://twitter.com/arjun_0802 :)
 
