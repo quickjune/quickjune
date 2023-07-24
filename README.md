@@ -1,6 +1,6 @@
 - 👋 Hey, this is Arjun.
-- 👀 I’m doing something with javascript and python
-- 🌱 I’m currently learning python.
+- 👀 I’m doing something with python
+- 🌱 I’m currently learning DevOps.
 - 🌱Developing a Data science project in Healthcare sub domain
 - 💞 Transitioning into cloud SOON ;)
 
